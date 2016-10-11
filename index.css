@@ -1,0 +1,11 @@
+<style>
+  body {
+    background-color:blue;
+  color: white
+    font-size: 10px
+      font-style: bold
+  }
+div {
+max-width: 800px;
+height:100px
+}
